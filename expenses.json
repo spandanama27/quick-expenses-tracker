@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1795254496295",
+    "title": "lunch",
+    "amount": 20,
+    "category": "Food",
+    "date": "2026-11-21"
+  },
+  {
+    "id": "1795254558790",
+    "title": "cloths",
+    "amount": 1000,
+    "category": "Shopping",
+    "date": "2026-11-21"
+  },
+  {
+    "id": "1795254786001",
+    "title": "picnic",
+    "amount": 2000,
+    "category": "Other",
+    "date": "2026-11-21"
+  }
+]
